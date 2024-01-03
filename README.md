@@ -36,11 +36,11 @@ copy(fname,newfile)
 ![Screenshot 2024-01-03 192447](https://github.com/allenjoveth/copy-file/assets/139422287/6a8eb2f7-8d72-40b9-865a-8dc1ab251c9e)
 
 
-# Existing file
+#### Existing file
 
 ![Screenshot 2024-01-03 192553](https://github.com/allenjoveth/copy-file/assets/139422287/a7bbfebb-3ef3-4e03-be07-83f9d689832d)
 
-# New file
+#### New file
 
 ![Screenshot 2024-01-03 192650](https://github.com/allenjoveth/copy-file/assets/139422287/885cb1e4-3b62-48c8-98a0-c62ab0df1fa2)
 
